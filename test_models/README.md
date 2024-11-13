@@ -1,7 +1,7 @@
 # Test Models
 
-These are test models. I am creating varous blocs as exercises to hopefully master Matlab/Simulink.
+These are test models. I am creating varous blocks as exercises to hopefully master Matlab/Simulink.
 
-## sine_wave_to_veloccity
-Very simple model with a sime wave source, converting to velocity, then plotting.
+## sine_wave_to_velocity
+Very simple model with a sine wave source, converting to velocity, then plotting.
 
