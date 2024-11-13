@@ -1,5 +1,10 @@
 # dish1
 
-Code to run on my Raspberry Pi to control my satellite dish.
+Matlab code to model the satellite dish
 
-I am just starting the process with trying to get the Rasperry Pi to control a motor using PWM. See the "motor_control" directory.
+Note I ma in the learning stage
+
+## Direcctoryies:
+
+- test_models - Testing out matlab creating various models I may wish to use in future development
+
